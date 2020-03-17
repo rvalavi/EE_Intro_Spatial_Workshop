@@ -1,10 +1,6 @@
 # Introduction 
-<!--  This becomes the title of this page on the website -->
 
-## Header 1
+Please refer to our powerpoint presentation for the introduction material.
 
-Text
+It can be found on the GitHub repository hosting this website [here](https://github.com/Doi90/EE_Intro_Spatial_Workshop/blob/master/slides/Introduction_Slides.pptx)
 
-## Header 2
-
-More text
